@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.githubpages']
+extensions = ['sphinx.ext.githubpages', 'sphinx_sitemap']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -112,6 +112,8 @@ html_sidebars = {
 }
 
 html_show_sourcelink = False
+
+site_url = 'https://moriya9n.github.io/ayashige_memo/'
 
 
 # -- Options for HTMLHelp output ------------------------------------------
