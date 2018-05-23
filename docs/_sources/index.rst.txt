@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: コンテンツ:
 
    google_my_business
     
