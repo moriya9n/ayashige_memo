@@ -11,4 +11,4 @@
    :caption: コンテンツ:
 
    google_my_business
-    
+   about
