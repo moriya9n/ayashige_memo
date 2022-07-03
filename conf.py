@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Ayashige\'s Memo'
+project = 'あやしげ\'s Memo'
 copyright = '2018, Ayashige(@kizamiudn)'
 author = 'Ayashige(@kizamiudn)'
 
