@@ -3,12 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-あやしげのメモ
+kizamiudn のメモ
 =========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: コンテンツ:
 
+   github-pages-update 
    google_my_business
    about
